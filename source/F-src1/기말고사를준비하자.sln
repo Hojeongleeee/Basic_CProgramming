@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "기말고사를준비하자", "기말고사를준비하자.vcxproj", "{04EC97A5-2581-4FC4-AC7B-42EDE01FACAD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "기말고사를준비하자포인터", "..\기말고사를준비하자포인터\기말고사를준비하자포인터.vcxproj", "{01AC5F7E-D142-4FCC-98F5-88D80935FA3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04EC97A5-2581-4FC4-AC7B-42EDE01FACAD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{04EC97A5-2581-4FC4-AC7B-42EDE01FACAD}.Debug|Win32.Build.0 = Debug|Win32
+		{04EC97A5-2581-4FC4-AC7B-42EDE01FACAD}.Release|Win32.ActiveCfg = Release|Win32
+		{04EC97A5-2581-4FC4-AC7B-42EDE01FACAD}.Release|Win32.Build.0 = Release|Win32
+		{01AC5F7E-D142-4FCC-98F5-88D80935FA3E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{01AC5F7E-D142-4FCC-98F5-88D80935FA3E}.Debug|Win32.Build.0 = Debug|Win32
+		{01AC5F7E-D142-4FCC-98F5-88D80935FA3E}.Release|Win32.ActiveCfg = Release|Win32
+		{01AC5F7E-D142-4FCC-98F5-88D80935FA3E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
